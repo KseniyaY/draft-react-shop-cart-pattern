@@ -1,3 +1,9 @@
+Small React app written (along with a tutorial) to try my hand at the new to me library (in contrast to the Angular framework).
+No full-fledged UI/UX was ever considered to be developed in this small project, but just a UI/UX shopping cart pattern.
+
+![shopping_cart_pattern](https://github.com/KseniyaY/draft-react-shop-cart-pattern/blob/master/public/react_shopping_cart_pattern.png)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
